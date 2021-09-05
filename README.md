@@ -1,2 +1,2 @@
-# Cuelist-issues
-Cuelist Issue tracker
+# Cuelist Issue tracker
+
